@@ -1,0 +1,12 @@
+[mysql]
+host = 127.0.0.1
+authdb = auth
+chardb = characters
+user = bot
+pass = 
+port = 3306
+
+[discord]
+apiKey = 123456
+targetServer = 123456
+logsChannel = 123456
