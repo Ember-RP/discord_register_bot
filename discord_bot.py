@@ -13,7 +13,6 @@ mysqlPass = config['mysql']['pass']
 mysqlPort = config['mysql']['port']
 apiKey = config['discord']['apiKey']
 discordServerID = int(config['discord']['targetServer'])
-serverRoleID = int(config['discord']['serverRole'])
 logsChannelID = int(config['discord']['logsChannel'])
 
 
