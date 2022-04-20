@@ -3,7 +3,7 @@ import mysql.connector, discord # Requires from pip3: mysql-connector-python, di
 
 ### Setup
 config = configparser.ConfigParser()
-config.read('registrationconfig')
+config.read('registration.cfg')
 
 mysqlHost = config['mysql']['host']
 mysqlauthDB = config['mysql']['authdb']
