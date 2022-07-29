@@ -50,5 +50,7 @@ This is a Python bot that allows users to register a TrinityCore account by dire
 ## Disclaimer
 Anyone who uses this on their server is capable of logging passwords. Encourage your users to provide throwaway passwords or unique passwords. This is a potential way to steal credentials, so it's ethical that all users should be aware and instructed to create unique passwords for your server.
 
+There are two versions of the bot, OLD, and 2022. These versions have different password creation methods. If your server is newer than January 2022, please execute the 2022 file. If your compiled core is a version older than 2022, please execute the OLD .py script.
+
 ## Contribute
 If you'd like to contribute, please fork and create a pull request. Your code will be reviewed and then merged with the main branch.
